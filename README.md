@@ -1,6 +1,6 @@
 ### Hello World! 🌎 My name is David 👋
 
-- 🤖 Driven to create maintainable code in reasonable time frames, with the help of automation!
+- 🤖 Driven to create maintainable code that pushes the envelope in reasonable time frames, with the help of meaningful automation!
 - 💖 Love to work on a tool similar to or a plugin for [PostGraphile](https://www.graphile.org/postgraphile/) that works with MongoDB.
 - 🌱 Currently learning about dev blogging, productive and creative management, and performant Node.js.
 - 👯 Eager to get more involved in OSS projects and enthuse about code!
