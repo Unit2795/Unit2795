@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello World! 🌎 My name is David 👋
 
+- 🤖 I'm driven to create maintainable code in reasonable time frames, with the help of automation!
+- 🔭 I’d love to work on a tool similar to or a plugin for [PostGraphile](https://www.graphile.org/postgraphile/) that works with MongoDB.
+- 🌱 I’m currently learning about dev blogging, productive and creative management, and performant Node.js.
+- 👯 I’m eager to collaborate on OSS projects and enthuse about code!
+- 📫 Please get in touch!
+  - 📧 [Email](mailto:david@djoz.us) `david@djoz.us`
+  - 🏢 [LinkedIn](https://www.linkedin.com/in/djoz/)
 <!--
 **Unit2795/Unit2795** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +18,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+ ...
 - ⚡ Fun fact: ...
 -->
