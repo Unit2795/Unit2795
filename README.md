@@ -1,10 +1,10 @@
 ### Hello World! 🌎 My name is David 👋
 
-- 🤖 I'm driven to create maintainable code in reasonable time frames, with the help of automation!
-- 🔭 I’d love to work on a tool similar to or a plugin for [PostGraphile](https://www.graphile.org/postgraphile/) that works with MongoDB.
-- 🌱 I’m currently learning about dev blogging, productive and creative management, and performant Node.js.
-- 👯 I’m eager to get more involved in OSS projects and enthuse about code!
-- 📫 Please get in touch!
+- 🤖 Driven to create maintainable code in reasonable time frames, with the help of automation!
+- 💖 Love to work on a tool similar to or a plugin for [PostGraphile](https://www.graphile.org/postgraphile/) that works with MongoDB.
+- 🌱 Currently learning about dev blogging, productive and creative management, and performant Node.js.
+- 👯 Eager to get more involved in OSS projects and enthuse about code!
+- 📡 Get in touch!
   - 📧 [Email](mailto:david@djoz.us) `david@djoz.us`
   - 🏢 [LinkedIn](https://www.linkedin.com/in/djoz/)
 <!--
