@@ -1,6 +1,6 @@
 ### Hello World! 🌎 My name is David 👋 
 
-- 🛠️ I make websites and internet enabled projects!
+- 🛠️ I make websites and cool software projects!
 - 🔭 Driven to create maintainable code that pushes the envelope in reasonable time frames, with the help of automation!
 - 💖 I love [PostGraphile](https://www.graphile.org/postgraphile/)!
 - 🌱 Currently learning about dev blogging and performant Node.js.
