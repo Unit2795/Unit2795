@@ -2,9 +2,8 @@
 
 - 🛠️ Driven to create maintainable code that pushes the envelope in reasonable time frames, with the help of automation!
 - 💖 I love [PostGraphile](https://www.graphile.org/postgraphile/)!
-- 🌱 Currently learning about dev blogging and performant Node.js.
-- 👯 Eager to get more involved in OSS projects and enthuse about code!
-- 📡 Get in touch!
+- 👯 Let's enthuse about code!
+- 📡 Get in touch:
   - 📧 [Email](mailto:david@djoz.us) `david@djoz.us`
   - 🏢 [LinkedIn](https://www.linkedin.com/in/djoz/)
 <!--
