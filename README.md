@@ -1,10 +1,8 @@
 ### Hello World! 🌎 My name is David 👋 
 
-- 🛠️ Driven to create maintainable code that pushes the envelope in reasonable time frames, with the help of automation!
-- 💖 I love [PostGraphile](https://www.graphile.org/postgraphile/)!
-- 👯 Let's enthuse about code!
+- 🛠️ Driven to create maintainable code that pushes the envelope in reasonable time frames
 - 📡 Get in touch:
-  - 📧 [Email](mailto:david@djoz.us) `david@djoz.us`
+  - 📧 [Email](mailto:d@djoz.us) `david@djoz.us`
   - 🏢 [LinkedIn](https://www.linkedin.com/in/djoz/)
 <!--
 **Unit2795/Unit2795** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
