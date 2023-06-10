@@ -1,7 +1,6 @@
 ### Hello World! 🌎 My name is David 👋 
 
-- 🛠️ Driven to create maintainable code that pushes the envelope in reasonable time frames
-- 📡 Get in touch:
+- 📡 Let's make something awesome!:
   - 📧 [Email](mailto:d@djoz.us) `david@djoz.us`
   - 🏢 [LinkedIn](https://www.linkedin.com/in/djoz/)
 <!--
