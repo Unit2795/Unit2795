@@ -2,7 +2,6 @@
 
 - 📡 Let's make something awesome!:
   - 📧 [Email](mailto:d@djoz.us) `d@djoz.us`
-  - 🏢 [LinkedIn](https://www.linkedin.com/in/djoz/)
 <!--
 **Unit2795/Unit2795** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
