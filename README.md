@@ -1,18 +1,13 @@
-### Hello World! 🌎 My name is David 👋 
+<h1 align="center">Full Stack Developer</h1>
 
-- 📡 Let's make something awesome!:
-  - 📧 [Email](mailto:d@djoz.us) `d@djoz.us`
-<!--
-**Unit2795/Unit2795** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello world! 🌎
 
-Here are some ideas to get you started:
+### 🛠️ Languages & Tools
+<div align="center">
+![David's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Unit2795&layout=compact)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
- ...
-- ⚡ Fun fact: ...
--->
+### 📡 Contact Me
+Let's make something awesome or chat about code!
+- 📧 [Email](mailto:d@djoz.us) `d@djoz.us`
+
