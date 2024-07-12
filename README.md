@@ -2,6 +2,8 @@
 
 Hello world! 🌎 I build web, mobile, desktop, cloud, and embedded software. 
 
+--------
+
 ### 🛠️ Languages & Tools
 <div align="center">
     <a href="https://www.typescriptlang.org/"><img width="40" style="max-width: 100%" src="icons/typescript.png"/></a>
@@ -21,8 +23,11 @@ Hello world! 🌎 I build web, mobile, desktop, cloud, and embedded software.
 
 [Click to see an exhaustive list of other technologies & tools I recommend or use](./Technologies.md)
 
+--------
+
 ### 📡 Contact Me
 
 Let's make something awesome or chat about code!
 - 📧 [Email](mailto:d@djoz.us) `d@djoz.us`
 
+--------
