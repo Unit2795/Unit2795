@@ -1,12 +1,12 @@
-# 💻 Technologies 🧬
+# 💻 Technologies & Concepts 🧬
 
-My favorite tech, neat tools, and things I use or am interested in.
+My favorite tech, neat tools, important concepts, and things I use or am interested in.
 
 | **Category**                 | **Tools**                                                    |
 | ---------------------------- | ------------------------------------------------------------ |
 | **Languages**                | Typescript, Python, C#, C, C++, Rust, PHP                    |
 | **Front-End**                | React, Next.JS, Vite, Solid.JS, Svelte, Qwik, React Native, Flutter, Electron, Tauri, Ionic, Webpack |
-| **UI** & CSS                 | Figma, Adobe XD, Tailwind, SASS, A11y, Hotjar, CSS Animations, 3D, Responsiveness, Storybook, Bit.dev |
+| **UI & CSS**                 | Figma, Adobe XD, Tailwind, SASS, A11y, Hotjar, CSS Animations, 3D, Responsiveness, Storybook, Bit.dev |
 | **Server, API, & DBs**       | Linux, Bash, Powershell, TCL, Node, REST, GraphQL, RPC, Websockets, Redis, DynamoDB, MongoDB, Cassandra, PostgreSQL, MySQL, Elasticsearch/Opensearch, Docker, Kubernetes, Drizzle ORM, Prisma, Kysely, pg-typed, Flyway, Atlas Go, WSL, Entity Framework, .NET |
 | **DevOps**                   | Terraform, AWS, GCP, Azure, Docker, Git, Agile               |
 | **Data Science, AI/ML, RPA** | RAG & Vector DBs, BI, Web Scraping, Visualization, Langchain, OpenAI, RPA, UIPath, PowerAutomate |
